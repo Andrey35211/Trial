@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39cc862d-18a9-4d79-98f4-5ea95fab1032" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/trial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Rectangle1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Rectangle10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Rectangle7.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Rectangle7_1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Rectangle7_2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Rectangle8.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Rectangle8_1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Rectangle8_2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Rectangle9.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Rectangle9_2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Vector.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Vector1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Vector3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Vector4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Vector4_1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Vector4_2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/panorama.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/waves_ocean.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yZLlmwkBCYIHfUgNsUrygHOWZc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.home.html">
+    <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/trial/templates/home.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/app.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.home.html" />
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39cc862d-18a9-4d79-98f4-5ea95fab1032" name="Changes" comment="" />
+      <created>1632454316888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632454316888</updated>
+      <workItem from="1632454318113" duration="8309000" />
+      <workItem from="1632562979200" duration="13162000" />
+      <workItem from="1632649694626" duration="9510000" />
+      <workItem from="1632708417477" duration="22878000" />
+      <workItem from="1632792890304" duration="21198000" />
+      <workItem from="1632883429925" duration="34583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
